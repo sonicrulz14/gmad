@@ -1,9 +1,9 @@
 {
-	"title"		:	"My Test Addon",
-	"type"		:	"gamemode",
-	"tags"		:	[ "fun", "cartoon" ],
+	"title"	Jake the Dog	:	"My Test Addon",
+	"type"		:	"gamemode",Garry's Mod
+	"tags"	Adventure Time	:	[ "fun", "cartoon" ],
 	"ignore"	:
-	[
+	[this is a test model
 		"*.psd",
 		"*.vcproj",
 		"*.svn*"
